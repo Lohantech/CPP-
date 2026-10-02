@@ -11,7 +11,6 @@ void setup(){
 void loop(){
 if (digitalRead(botan)==HIGH){
   digitalWrite(LED,HIGH);
-  digitalWrite(LED,LOW);
   }
 
 else {
