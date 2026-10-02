@@ -1,9 +1,9 @@
-int led=2;
+int LED=2;
 
 void setup(){
-  pinMode(led,OUTPUT);
+  pinMode(LED,OUTPUT);
 }
 
 void loop(){
-  digitalWrite(led,HIGH);
+  digitalWrite(LED,HIGH);
 }
