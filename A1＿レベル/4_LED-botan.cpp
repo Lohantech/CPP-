@@ -1,5 +1,8 @@
+#include <Arduino.h>
+
 int LED=2;
 int botan=3;
+
 int kankaku=5000;
 int botan_zero=0;
 
