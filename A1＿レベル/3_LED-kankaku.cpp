@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 int LED=2;
 int kankaku=5000;
 
